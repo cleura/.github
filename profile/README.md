@@ -37,7 +37,7 @@ For detailed guidelines, please refer to our [Contribution Guide](https://docs.c
 
 Our public repositories include:
 
-- [terraform-provider-cleura](https://github.com/cleura/terraform-provider-cleura): A Terraform provider for managing Cleura resources.
+- [examples](https://github.com/cleura/examples): IaC examples for interacting with Cleura's offerings.
 
 We are continuously working to expand our open-source offerings. Stay tuned for more projects and tools.
 
